@@ -5,7 +5,7 @@ This package makes it easy to connect to the [US GeoCoding api](https://geocodin
 # Install
 
 ```
-pip install geocoding_api_extract
+pip install dist\geocoding_api_extract-0.0.1.tar.gz
 ```
 
 # Usage 
