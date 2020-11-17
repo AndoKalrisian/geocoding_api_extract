@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="geocoding_api_extract",
-    version="0.0.1",
+    version="0.0.2",
     author="Anders Bergman",
     author_email="",
     description="Geocoding api extract to dataframe script.",
